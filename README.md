@@ -13,5 +13,5 @@ Works across all _Stack Exchange_ communities including:
 - etc.
 
 <p align="center">
-    <img src="https://lh3.googleusercontent.com/DLzw_YuAQKinsmmeUTPa5Kg7vFj3r_DcZUhkjoNhgAGJ_WbIgfxW-kw5nR9ymdZooX4uhcN9If8=w640-h400-e365">
+    <img src="https://lh3.googleusercontent.com/P_2ve1zE4rvvSS3btqxsYsAkJ9pYpNJzutFOgODsVNscGWPN0gII2YOiNPE3U10ymyhjrtk2=w640-h400-e365">
 </p>
