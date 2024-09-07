@@ -1,7 +1,7 @@
 {
   "name": "Stack Overflow Voting Order – Fixed",
-  "manifest_version": 2,
-  "version": "1.0.0",
+  "manifest_version": 3,
+  "version": "1.0.1",
   "description": "View Stack Exchange answers ordered by actual vote count.",
   "author": "Sam Kauffman (SamVK)",
   "icons": {
